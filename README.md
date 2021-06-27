@@ -2,7 +2,7 @@
 
 Note: All numbers are for illustration purposes only
 
-Below summaries the steps taken to build the SaaS financial model
+Below summarizes the steps taken to build the SaaS financial model
 
 **Sales Assumptions Tab**
 1.	Calculate the cost of new customers (new booking) by estimating the advertising spend/leads/conversion rate etc in Month 13 (Assume the first sales start after 12months of development)  
@@ -24,4 +24,4 @@ Below summaries the steps taken to build the SaaS financial model
 
 9.	Calculate key metrics such as Annual Run Rate (ARR), Net Dollar Retention (NDR), Average Customer Life Value (LTV), Customer Acquisition Cost (CAC) and LTV/CAC ratio
 
-10.	Summaries findings with graphs: Revenue/Gross Margin, Burn Rate/Cash Balance and CAC/LTV/LTV:CAC 
+10.	Summarizes findings with graphs: Revenue/Gross Margin, Burn Rate/Cash Balance and CAC/LTV/LTV:CAC 
