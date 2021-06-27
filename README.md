@@ -9,6 +9,7 @@ Below summaries the steps taken to build the SaaS financial model
 2.	Forecast expansion and contraction (churn) revenue
 3.	Calculate the sales commission (new, renewals, up-sells)
 4.	Model total active customers, total bookings, and recurring revenue
+
 5.	Calculate revenue with monthly recurring revenue (MRR) and annual recurring revenue (ARR)
 
 **Financial Statement Tab**
@@ -20,5 +21,7 @@ Below summaries the steps taken to build the SaaS financial model
 8.	Model cashflow and balance sheet with assumptions made in the Assumptions portion
 
 **Key Metrics Tab**
+
 9.	Calculate key metrics such as Annual Run Rate (ARR), Net Dollar Retention (NDR), Average Customer Life Value (LTV), Customer Acquisition Cost (CAC) and LTV/CAC ratio
+
 10.	Summaries findings with graphs: Revenue/Gross Margin, Burn Rate/Cash Balance and CAC/LTV/LTV:CAC 
