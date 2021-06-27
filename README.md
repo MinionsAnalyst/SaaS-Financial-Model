@@ -1,6 +1,7 @@
 # SaaS-Financial-Model
 
 Note: All numbers are for illustration purposes only
+
 Below summaries the steps taken to build the SaaS financial model
 
 **Sales Assumptions Tab**
@@ -11,8 +12,11 @@ Below summaries the steps taken to build the SaaS financial model
 5.	Calculate revenue with monthly recurring revenue (MRR) and annual recurring revenue (ARR)
 
 **Financial Statement Tab**
+
 6.	Model Income statement using the revenue calculated previously, personnel expense, operating expenses (OPEX)
+
 7.	Calculate Depreciation and Capex under the supporting schedules
+
 8.	Model cashflow and balance sheet with assumptions made in the Assumptions portion
 
 **Key Metrics Tab**
